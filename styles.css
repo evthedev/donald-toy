@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+  font-family: poppins, sans-serif;
+  line-height: 1.5em;
+}
+.img_wrapper {
+  width: 300px;
+  height: 400px;
+  position: relative;
+}
+
+.head_wrapper {
+  width: 80px;
+  position: absolute;
+  left: calc(50% - 40px);
+  
+  z-index: 1
+}
+
+.head_wrapper img {
+  max-width: 100%;
+}
+
+#CPM {
+  font-size: 50px;
+  float: right;
+  margin-left: 10px;
+  
+}

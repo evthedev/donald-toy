@@ -2,7 +2,7 @@
 
 * {
   font-family: poppins, sans-serif;
-  line-height: 1.5em;
+  line-height: 1.1;
 }
 .img_wrapper {
   width: 300px;
@@ -24,7 +24,6 @@
 
 #CPM {
   font-size: 50px;
-  float: right;
   margin-left: 10px;
   
 }
